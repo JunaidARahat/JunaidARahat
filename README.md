@@ -1,8 +1,9 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Junaid Ali 😀</h1>
-<h4 align="center">I'm a Data Scientist</h4>
-
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%'/>
+</div>
 
 
 ### I have technical experience and interest in:
